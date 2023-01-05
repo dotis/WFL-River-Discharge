@@ -1,0 +1,18 @@
+---
+title: "FL River Discharge"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: load-packages 
+#| include: false
+library(tidyverse)
+```
+
+![Manatee](/images/shark_disch_single.png){width="600"}
+
+
+
+
+![Peace](https://usf.box.com/s/dcq4eou4vcdes3al9kcpcmjqt1mfpqpp)

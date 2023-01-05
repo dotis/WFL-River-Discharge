@@ -1,6 +1,0 @@
---
-title: "Shark River Discharge"
-image: "/images/shark_river_disch_single.png"
-description: "Tidally filtered discharge from the Shark River"
-format: html
----
