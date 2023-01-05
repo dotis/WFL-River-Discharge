@@ -10,7 +10,7 @@ editor: visual
 library(tidyverse)
 ```
 
-![Manatee](/images/shark_disch_single.png){width="600"}
+![Shark](/images/Shark_disch_single.png){width="600"}
 
 
 
