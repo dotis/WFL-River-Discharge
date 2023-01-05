@@ -10,9 +10,20 @@ editor: visual
 library(tidyverse)
 ```
 
-![Shark](/images/Shark_disch_single.png){width="600"}
+![](/images/Shark_disch_single.png){width="600"}
 
+![](/images/Lostmans_disch_single.png){width="600"}
 
+![](/images/Faka_disch_single.png){width="600"}
 
+![](/images/CALOOSAHATCHEE_disch_single.png){width="600"}
 
-![Peace](https://usf.box.com/s/dcq4eou4vcdes3al9kcpcmjqt1mfpqpp)
+![](/images/MYAKKA_disch_single.png){width="600"}
+
+![](/images/PEACE_disch_single.png){width="600"}
+
+![](/images/MANATEE_disch_single.png){width="600"}
+
+![](/images/LITTLE-MANATEE_disch_single.png){width="600"}
+
+![](/images/ALAFIA_disch_single.png){width="600"}
